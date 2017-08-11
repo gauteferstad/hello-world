@@ -3,7 +3,7 @@
 #version 0.0.1, date august 11, 2017
 #Gaute Michel Ferstad
 
-state_capitals {
+state_capitals = {
     "Alabama" : "Montgomery",
     "Alaska" : "Juneau",
     "Arizona" : "Phoenix",
